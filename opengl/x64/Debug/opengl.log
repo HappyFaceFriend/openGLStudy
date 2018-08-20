@@ -1,0 +1,49 @@
+﻿  VertexArray.cpp
+d:\이영진\gitprojects\openglstudy\opengl\src\vertexarray.cpp(23): warning C4312: '형식 캐스팅': 'unsigned int'에서 더 큰 'const void *'(으)로의 변환입니다.
+  VertexBuffer.cpp
+  Application.cpp
+  Renderer.cpp
+  IndexBuffer.cpp
+  Shader.cpp
+  코드를 생성하고 있습니다...
+Shader.obj : error LNK2001: __glewAttachShader 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewCompileShader 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewCreateProgram 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewCreateShader 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewDeleteProgram 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewDeleteShader 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewGetShaderInfoLog 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewGetShaderiv 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewGetUniformLocation 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewLinkProgram 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewShaderSource 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewUniform1f 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewUniform4f 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewUseProgram 외부 기호를 확인할 수 없습니다.
+Shader.obj : error LNK2001: __glewValidateProgram 외부 기호를 확인할 수 없습니다.
+IndexBuffer.obj : error LNK2001: __glewBindBuffer 외부 기호를 확인할 수 없습니다.
+VertexBuffer.obj : error LNK2001: __glewBindBuffer 외부 기호를 확인할 수 없습니다.
+IndexBuffer.obj : error LNK2001: __glewBufferData 외부 기호를 확인할 수 없습니다.
+VertexBuffer.obj : error LNK2001: __glewBufferData 외부 기호를 확인할 수 없습니다.
+IndexBuffer.obj : error LNK2001: __glewDeleteBuffers 외부 기호를 확인할 수 없습니다.
+VertexBuffer.obj : error LNK2001: __glewDeleteBuffers 외부 기호를 확인할 수 없습니다.
+IndexBuffer.obj : error LNK2001: __glewGenBuffers 외부 기호를 확인할 수 없습니다.
+VertexBuffer.obj : error LNK2001: __glewGenBuffers 외부 기호를 확인할 수 없습니다.
+Application.obj : error LNK2019: glewInit 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+Application.obj : error LNK2019: glfwInit 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+Application.obj : error LNK2019: glfwTerminate 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+Application.obj : error LNK2019: glfwWindowHint 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+Application.obj : error LNK2019: glfwCreateWindow 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+Application.obj : error LNK2019: glfwWindowShouldClose 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+Application.obj : error LNK2019: glfwPollEvents 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+Application.obj : error LNK2019: glfwMakeContextCurrent 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+Application.obj : error LNK2019: glfwSwapBuffers 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+Application.obj : error LNK2019: glfwSwapInterval 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+VertexArray.obj : error LNK2001: __glewEnableVertexAttribArray 외부 기호를 확인할 수 없습니다.
+VertexArray.obj : error LNK2001: __glewVertexAttribPointer 외부 기호를 확인할 수 없습니다.
+VertexArray.obj : error LNK2001: __glewBindVertexArray 외부 기호를 확인할 수 없습니다.
+VertexArray.obj : error LNK2001: __glewDeleteVertexArrays 외부 기호를 확인할 수 없습니다.
+VertexArray.obj : error LNK2001: __glewGenVertexArrays 외부 기호를 확인할 수 없습니다.
+D:\이영진\GitProjects\OpenGLStudy\Dependencies\GLFW\lib-vc2015\glfw3.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+D:\이영진\GitProjects\OpenGLStudy\Dependencies\GLEW\lib\Release\Win32\glew32s.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+D:\이영진\GitProjects\OpenGLStudy\x64\Debug\opengl.exe : fatal error LNK1120: 34개의 확인할 수 없는 외부 참조입니다.
